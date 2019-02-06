@@ -2,6 +2,7 @@ class App extends React.Component {
     render() {
         return (
             <React.Fragment>
+                <h1>ReactDemo</h1>
                 <section>
                     <h2>LoginControl</h2>
                     <LoginControl/>
